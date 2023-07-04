@@ -6,8 +6,6 @@
 
 Hello there! I'm Ian, a passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. You can find me on [CodePen](https://codepen.io/Immain) or view my [portfolio](https://ianmain.dev/).
 
-https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347 | https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white | https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white | https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white | https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white | https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white | https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white | https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-
 
 <!-- current projects -->
 ## Current Projects
