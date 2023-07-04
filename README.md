@@ -7,7 +7,7 @@
 Hello there! I'm Ian, a passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. You can find me on [CodePen](https://codepen.io/Immain) or view my [portfolio](https://ianmain.dev/).
 
 <!-- current projects -->
-# Current Projects
+## Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
 
 <!-- recent projects -->
