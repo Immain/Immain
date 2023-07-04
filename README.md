@@ -10,6 +10,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ianmain/)
 [<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' />](https://discord.gg/54efxMtrdc)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=immain)
 
 <!-- current projects -->
 ## Current Projects
