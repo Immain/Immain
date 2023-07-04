@@ -22,8 +22,8 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 
 <!-- resource repositories -->
 ## Resources on Github
-[<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://github.com/Immain/PythonScripts) - A collection of Python scripts I've written to automate various tasks
-[<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
+- [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://github.com/Immain/PythonScripts) - A collection of Python scripts I've written to automate various tasks
+- [<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
 
 <!-- github stats -->
 ## Ian's Github Stats
