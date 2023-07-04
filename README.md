@@ -8,7 +8,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SpiderCat&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
 
 <!-- recent projects -->
 
