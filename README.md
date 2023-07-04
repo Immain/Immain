@@ -30,7 +30,6 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 
 <!-- github stats -->
 ## Ian's Github Stats
-![Ian's Badge](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=immain)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=immain&show_icons=true&theme=dark)
 <!-- Tools -->
