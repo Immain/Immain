@@ -12,11 +12,10 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 - [Powershell](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
 
 ## Ian's Github Stats
-
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=immain&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support me
-
 **[Buying Me a Coffee](https://www.buymeacoffee.com/pdstech)** will support my mission to embrace the power of innovation and empower a dedicated software developer on his journey to create exceptional solutions. By supporting me, you become an essential part of fueling innovation in the world of software development. Your contribution enables me to explore new technologies, refine my skills, and stay at the forefront of the ever-evolving tech landscape. Together, we can push the boundaries of what's possible and create groundbreaking solutions that make a real impact.
 
 ***Join me on this transformative journey, where every line of code we write has the potential to shape the future. Together, let's build remarkable solutions and leave a lasting impact on the world. Support me today and be a catalyst for change***
