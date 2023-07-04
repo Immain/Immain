@@ -13,7 +13,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 
 <!-- current projects -->
 ## Current Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Ansible-MOTD&theme=react)](https://github.com/Immain/Ansible-MOTD)
 
 <!-- past projects -->
 ## Past Projects
