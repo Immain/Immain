@@ -4,12 +4,11 @@
 <!-- introduction -->
 # Hi, there! 👋
 
-Hello there! I'm Ian, a passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. 
+Hello there! I'm Ian, a passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. You can find me on [CodePen](https://codepen.io/Immain) or view my [portfolio](https://ianmain.dev/).
 
 [<img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347'/>](https://www.codecademy.com/profiles/immain)
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ianmain/)
-
 
 <!-- current projects -->
 ## Current Projects
@@ -23,14 +22,13 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 
 <!-- resource repositories -->
 ## Resources on Github
-- [Python](https://github.com/Immain/PythonScripts) - A collection of Python scripts I've written to automate various tasks
-- [Powershell](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
+- [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://github.com/Immain/PythonScripts) - A collection of Python scripts I've written to automate various tasks
+- [<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
 
 <!-- github stats -->
 ## Ian's Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=immain&show_icons=true&theme=dark)
-
 
 <!-- social media -->
 ## Support me
