@@ -13,11 +13,11 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=immain)
 
 <!-- current projects -->
-## Current Projects
+## ✅ Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Ansible-MOTD&theme=react)](https://github.com/Immain/Ansible-MOTD)
 
 <!-- past projects -->
-## Past Projects
+## 📁 Past Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Playlist-DL-Jan2023&theme=react)](https://github.com/Immain/Playlist-DL-Jan2023)
 <!-- community -->
@@ -30,7 +30,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 - [<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />](https://github.com/Immain/Scripts/tree/main/Powershell) - A collection of Powershell scripts I have written to overcome various challenges
 
 <!-- github stats -->
-## Ian's Github Stats
+## 📈 Ian's Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Tools -->
