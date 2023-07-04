@@ -32,7 +32,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 <!-- github stats -->
 ## Ian's Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=immain&show_icons=true&theme=dark)
+
 <!-- Tools -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
