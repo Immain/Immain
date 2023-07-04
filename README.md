@@ -18,7 +18,7 @@ Hello there! I'm Ian, a passionate software developer with expertise in React, P
 <!-- past projects -->
 ## Past Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Playlist-DL-Jan2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Playlist-DL-Jan2023&theme=react)](https://github.com/Immain/Playlist-DL-Jan2023)
 <!-- community -->
 ## 🗺️ Join My Community
 **[Join my Discord](https://discord.gg/54efxMtrdc)**  and connect with a vibrant community of like-minded individuals passionate about technology and innovation. Come aboard our Discord community today, where knowledge is shared, collaborations thrive, and friendships are forged. Join us in shaping the future of technology together. Click the link above and become part of something extraordinary
