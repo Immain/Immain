@@ -4,7 +4,7 @@
 <!-- introduction -->
 # Hi, there! 👋
 
-Hello there! I'm Ian, a passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. 
+Hello there! I'm Ian, an aspiring & passionate software developer with expertise in React, Python, Ansible, and Tailwind. With a keen eye for detail and a love for creating exceptional user experiences, I thrive on building robust and intuitive web applications. I am constantly exploring new technologies and refining my skills to stay at the forefront of the ever-evolving tech landscape. 
 
 [<img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347'/>](https://www.codecademy.com/profiles/immain)
 [<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
