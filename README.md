@@ -14,10 +14,11 @@ Hello there! I'm Ian, an aspiring & passionate software developer with expertise
 
 <!-- current projects -->
 ## ✅ Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Ansible-MOTD&theme=react)](https://github.com/Immain/Ansible-MOTD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=threads_app_clone&theme=react)](https://github.com/Immain/threads_app_clone)
 
 <!-- past projects -->
 ## 📁 Past Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Ansible-MOTD&theme=react)](https://github.com/Immain/Ansible-MOTD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Playlist-DL-Jan2023&theme=react)](https://github.com/Immain/Playlist-DL-Jan2023)
 <!-- community -->
