@@ -14,6 +14,7 @@ Hello there! I'm Ian, an aspiring & passionate software developer with expertise
 
 <!-- current projects -->
 ## ✅ Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=IanMain.Dev_Portfolio&theme=react)](https://github.com/Immain/IanMain.Dev_Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Hive-Social-App&theme=react)](https://github.com/Immain/Hive-Social-App)
 
 <!-- past projects -->
