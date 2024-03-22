@@ -15,13 +15,10 @@ Hello there! I'm Ian, an aspiring & passionate software developer with expertise
 <!-- current projects -->
 ## ✅ Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=IanMain.Dev_Portfolio&theme=react)](https://github.com/Immain/IanMain.Dev_Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Hive-Social-App&theme=react)](https://github.com/Immain/Hive-Social-App)
 
 <!-- past projects -->
 ## 📁 Past Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Ansible-MOTD&theme=react)](https://github.com/Immain/Ansible-MOTD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Video-DL-Jan2023&theme=react)](https://github.com/Immain/Video-DL-Jan2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Playlist-DL-Jan2023&theme=react)](https://github.com/Immain/Playlist-DL-Jan2023)
+
 <!-- community -->
 ## 🗺️ Join My Community
 **[Join my Discord](https://discord.gg/54efxMtrdc)**  and connect with a vibrant community of like-minded individuals passionate about technology and innovation. Come aboard our Discord community today, where knowledge is shared, collaborations thrive, and friendships are forged. Join us in shaping the future of technology together. Click the link above and become part of something extraordinary
