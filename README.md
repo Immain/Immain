@@ -13,11 +13,11 @@ Hello there! I'm Ian, an aspiring & passionate software developer with expertise
 
 <!-- current projects -->
 ## ✅ Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=IanMain.Dev_Portfolio&theme=react)](https://github.com/Immain/IanMain.Dev_Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=PandaAI-DiscordBot&theme=react)](https://github.com/Immain/PandaAI-DiscordBot)
 
 <!-- past projects -->
 ## 📁 Past Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=IanMain.Dev_Portfolio&theme=react)](https://github.com/Immain/IanMain.Dev_Portfolio)
 <!-- community -->
 ## 🗺️ Join My Community
 **[Join my Discord](https://discord.gg/54efxMtrdc)**  and connect with a vibrant community of like-minded individuals passionate about technology and innovation. Come aboard our Discord community today, where knowledge is shared, collaborations thrive, and friendships are forged. Join us in shaping the future of technology together. Click the link above and become part of something extraordinary
