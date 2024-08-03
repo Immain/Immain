@@ -15,6 +15,7 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 <!-- current projects -->
 ## ✅ Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=DigitalOcean-Droplet-Deployment&theme=react)](https://github.com/Immain/DigitalOcean-Droplet-Deployment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Channel-Video-Downloader&theme=react)](https://github.com/Immain/Channel-Video-Downloader)
 
 <!-- past projects -->
 ## 📁 Past Projects
