@@ -16,6 +16,7 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 ## ✅ Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=DigitalOcean-Droplet-Deployment&theme=react)](https://github.com/Immain/DigitalOcean-Droplet-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=MakeMKV-Automation&theme=react)](https://github.com/Immain/MakeMKV-Automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Gmail-Inbox-Cleaner&theme=react)](https://github.com/Immain/Gmail-Inbox-Cleaner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Channel-Video-Downloader&theme=react)](https://github.com/Immain/Channel-Video-Downloader)
 
 <!-- past projects -->
