@@ -10,7 +10,7 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/ianmain/)
-[<img src='https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white'/>](https://codepen.io/Immain)
+
 
 <!-- current projects -->
 ## ✅ Current Projects
