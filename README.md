@@ -14,6 +14,7 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 
 <!-- current projects -->
 ## ✅ Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=AWS-EC2-Deployment&theme=react)](https://github.com/Immain/AWS-EC2-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Linode-Cloud-Deployment&theme=react)](https://github.com/Immain/Linode-Cloud-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=DigitalOcean-Droplet-Deployment&theme=react)](https://github.com/Immain/DigitalOcean-Droplet-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Zsh-Ubuntu&theme=react)](https://github.com/Immain/Zsh-Ubuntu)
@@ -21,7 +22,7 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 
 <!-- past projects -->
 ## 📁 Past Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=IanMain.Dev_Portfolio&theme=react)](https://github.com/Immain/IanMain.Dev_Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Zsh-Ubuntu&theme=react)](https://github.com/Immain/Zsh-Ubuntu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=MakeMKV-Automation&theme=react)](https://github.com/Immain/MakeMKV-Automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Gmail-Inbox-Cleaner&theme=react)](https://github.com/Immain/Gmail-Inbox-Cleaner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Channel-Video-Downloader&theme=react)](https://github.com/Immain/Channel-Video-Downloader)
