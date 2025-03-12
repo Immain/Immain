@@ -17,7 +17,6 @@ As an aspiring security analyst, I am deeply passionate about protecting individ
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=AWS-EC2-Deployment&theme=react)](https://github.com/Immain/AWS-EC2-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Linode-Cloud-Deployment&theme=react)](https://github.com/Immain/Linode-Cloud-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=DigitalOcean-Droplet-Deployment&theme=react)](https://github.com/Immain/DigitalOcean-Droplet-Deployment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Zsh-Ubuntu&theme=react)](https://github.com/Immain/Zsh-Ubuntu)
 
 
 <!-- past projects -->
