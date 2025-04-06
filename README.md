@@ -1,7 +1,7 @@
 <!-- introduction -->
-# Hello! 👋
+# Hey! 👋
 
-As an aspiring security analyst, I am deeply passionate about protecting individuals and organizations from outside threats. In today's digital landscape, where cyberattacks are becoming increasingly sophisticated, my drive for security and resilience motivates me to stay ahead of potential vulnerabilities. I am committed to developing my skills in threat analysis, risk management, and incident response to ensure that the systems and data of those I serve remain secure. My goal is to contribute to a safer digital environment, where technology can be leveraged without fear of compromise or breach.
+I love building things for the internet, whether it's setting up servers, writing backend scripts, or automating tedious tasks to make systems run smoother. There's something deeply satisfying about creating tools that streamline workflows, solve real problems, and keeps infrastructure humming in the background. I’m especially drawn to the challenge of turning manual, repetitive work into efficient, automated processes through code. Whether it’s scripting deployments in Ansible, managing configurations, or wiring together APIs using Bash and Python, I enjoy getting into the nitty gritty and making things just work. For me, it’s all about thinking outside the box to make technology cleaner, faster, and more reliable.
 
 
 
