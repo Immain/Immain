@@ -1,7 +1,3 @@
-<!-- banner -->
-<img src="https://i.imgur.com/HCPBUah.png" width="1200"/>
-
-
 <!-- introduction -->
 # Hello! 👋
 
