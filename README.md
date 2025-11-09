@@ -5,6 +5,7 @@ I love building things for the internet, whether it's setting up servers, writin
 
 <!-- current projects -->
 ## ✅ Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=vibeflow&theme=react)](https://github.com/Immain/vibeflow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=AWS-EC2-Deployment&theme=react)](https://github.com/Immain/AWS-EC2-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=Linode-Cloud-Deployment&theme=react)](https://github.com/Immain/Linode-Cloud-Deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immain&repo=DigitalOcean-Droplet-Deployment&theme=react)](https://github.com/Immain/DigitalOcean-Droplet-Deployment)
