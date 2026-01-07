@@ -1,65 +1,87 @@
 <div align="center">
 
-# Hey there, I'm Ian! 👋
+<a href="https://ianmain.dev">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ian+%F0%9F%91%8B;I+automate+the+boring+stuff.;I+build+infrastructure.;Check+out+my+portfolio+%E2%86%93" alt="Typing SVG" />
+</a>
 
-### Backend Automation & Infrastructure Enthusiast
-
-<p align="center">
-I’m drawn to the challenge of turning manual, repetitive work into efficient, automated processes through code. For me, it’s all about thinking outside the box to make technology cleaner, faster, and more reliable.
+<p>
+  <a href="https://ianmain.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ianmain.dev-blueviolet?style=for-the-badge&logo=globe" alt="Website" />
+  </a>
+  <a href="https://www.youtube.com/@realexpeditionpanda">
+    <img src="https://img.shields.io/badge/YouTube-Expedition%20Panda-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
 </p>
-
----
-
-### ⚡ What I do
-
-🚀 **Infrastructure as Code:** Scripting deployments and managing configurations (Ansible, Bash).
-🛠️ **Backend Automation:** Writing scripts to automate tedious tasks and keep systems running smoother.
-🔌 **API Integrations:** Wiring together services using Python and Bash to solve real problems.
-
----
 
 </div>
 
-## 🛠️ Technical Stack
+---
 
-I enjoy getting into the nitty-gritty to make things just work.
+### 🕹️ The "Interactive" Stack
+Click the groups below to reveal my toolkit.
 
-| Backend & DevOps | Databases | Frontend & Design |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,nodejs,docker,aws,bash" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=js,react,html,css,figma" /> |
-
+<details>
+<summary><b>☁️ DevOps & Infrastructure</b> (Click to Expand)</summary>
 <br/>
-
-## ✅ Current Focus & Active Projects
-
-I am currently focused on streamlining workflows and infrastructure deployment.
-
-| Project | Description | Key Tech |
-| :--- | :--- | :--- |
-| **[🌊 vibeflow](https://github.com/Immain/vibeflow)** | An alternative Spotify player built with Next.js that delivers an immersive, visually rich listening experience featuring artist insights, playlist organization, and in-depth user stats. | React, Node |
-| **[☁️ AWS EC2 Deployment](https://github.com/Immain/AWS-EC2-Deployment)** | Automated deployment scripts and configurations for AWS EC2 infrastructure. | AWS, Bash/Python |
-| **[☁️ Linode Cloud Deployment](https://github.com/Immain/Linode-Cloud-Deployment)** | Infrastructure automation for deploying resources on Linode. | Linode API |
-| **[💧 DigitalOcean Droplet Deployment](https://github.com/Immain/DigitalOcean-Droplet-Deployment)** | Automating Droplet creation and setup on DigitalOcean. | DigitalOcean API |
-
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,ansible,nginx" />
 <br/>
+<i>Tools I use to deploy, manage, and scale servers.</i>
+</details>
 
-## 📁 Archived & Past Automation Tools
-
-Previous tools built to solve specific, real-world annoyances.
-
-| Project | Summary |
-| :--- | :--- |
-| **[🐧 Zsh-Ubuntu](https://github.com/Immain/Zsh-Ubuntu)** | Custom configuration setup for Zsh environments on Ubuntu. |
-| **[💿 MakeMKV-Automation](https://github.com/Immain/MakeMKV-Automation)** | Automating the ripping process for physical media using MakeMKV. |
-| **[📧 Gmail-Inbox-Cleaner](https://github.com/Immain/Gmail-Inbox-Cleaner)** | Scripting tools to help manage and clean cluttered Gmail inboxes. |
-| **[📺 Channel-Video-Downloader](https://github.com/Immain/Channel-Video-Downloader)** | A utility for archiving videos from specific channels. |
-
+<details>
+<summary><b>⚡ Backend & Scripting</b> (Click to Expand)</summary>
 <br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,mongodb,postgres" />
+<br/>
+<i>The engines that power the automation.</i>
+</details>
+
+<details>
+<summary><b>🎨 Frontend & Creative</b> (Click to Expand)</summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,premiere" />
+<br/>
+<i>Where code meets cinematic content.</i>
+</details>
+
+---
+
+### 📂 Active Projects (Click titles to read more)
+
+<details>
+<summary><b>🌊 vibeflow</b> <i>(React / Node)</i></summary>
+<blockquote>
+A modern web application built for... (Add brief description).
+<br />
+<a href="https://github.com/Immain/vibeflow">View Repository →</a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>☁️ AWS EC2 Deployment</b> <i>(Python / Boto3)</i></summary>
+<blockquote>
+Fully automated deployment scripts for AWS infrastructure.
+<br />
+<a href="https://github.com/Immain/AWS-EC2-Deployment">View Repository →</a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>💧 DigitalOcean Automations</b> <i>(Bash / API)</i></summary>
+<blockquote>
+Scripts to spin up and configure Droplets instantly.
+<br />
+<a href="https://github.com/Immain/DigitalOcean-Droplet-Deployment">View Repository →</a>
+</blockquote>
+</details>
+
+---
 
 <div align="center">
 
-## 📊 GitHub Activity
+### 🐍 My Contribution Snake
+*This snake eats my daily commit history.*
 
-[![Ian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=immain&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ebd3&text_color=c9d1d9&icon_color=00ebd3)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/Immain/Immain/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 
 </div>
