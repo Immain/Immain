@@ -39,7 +39,7 @@ Click the groups below to reveal my toolkit.
 <details>
 <summary><b>🎨 Frontend & Creative</b> (Click to Expand)</summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,figma,premiere" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,figma,premiere" />
 <br/>
 <i>Where code meets cinematic content.</i>
 </details>
@@ -49,9 +49,10 @@ Click the groups below to reveal my toolkit.
 ### 📂 Active Projects (Click titles to read more)
 
 <details>
-<summary><b>🌊 vibeflow</b> <i>(React / Node)</i></summary>
+<summary><b>🌊 Vibeflow</b> <i>(Next.js)</i></summary>
 <blockquote>
-A modern web application built for... (Add brief description).
+An alternative Spotify player built with Next.js that delivers an immersive, visually rich listening experience featuring artist insights, playlist organization, and in-depth user stats.
+<br />
 <br />
 <a href="https://github.com/Immain/vibeflow">View Repository →</a>
 </blockquote>
@@ -62,6 +63,7 @@ A modern web application built for... (Add brief description).
 <blockquote>
 Fully automated deployment scripts for AWS infrastructure.
 <br />
+<br />
 <a href="https://github.com/Immain/AWS-EC2-Deployment">View Repository →</a>
 </blockquote>
 </details>
@@ -70,6 +72,7 @@ Fully automated deployment scripts for AWS infrastructure.
 <summary><b>💧 DigitalOcean Automations</b> <i>(Bash / API)</i></summary>
 <blockquote>
 Scripts to spin up and configure Droplets instantly.
+<br />
 <br />
 <a href="https://github.com/Immain/DigitalOcean-Droplet-Deployment">View Repository →</a>
 </blockquote>
