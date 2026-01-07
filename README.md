@@ -36,7 +36,7 @@ I am currently focused on streamlining workflows and infrastructure deployment.
 
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
-| **[🌊 vibeflow](https://github.com/Immain/vibeflow)** | (Add a brief description of what vibeflow does here). | React, Node |
+| **[🌊 vibeflow](https://github.com/Immain/vibeflow)** | An alternative Spotify player built with Next.js that delivers an immersive, visually rich listening experience featuring artist insights, playlist organization, and in-depth user stats. | React, Node |
 | **[☁️ AWS EC2 Deployment](https://github.com/Immain/AWS-EC2-Deployment)** | Automated deployment scripts and configurations for AWS EC2 infrastructure. | AWS, Bash/Python |
 | **[☁️ Linode Cloud Deployment](https://github.com/Immain/Linode-Cloud-Deployment)** | Infrastructure automation for deploying resources on Linode. | Linode API |
 | **[💧 DigitalOcean Droplet Deployment](https://github.com/Immain/DigitalOcean-Droplet-Deployment)** | Automating Droplet creation and setup on DigitalOcean. | DigitalOcean API |
